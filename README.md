@@ -6,6 +6,7 @@
 Файл: BG_unicef_border_BiogeoRegions_2016
 
 Формат: Geopackage
+
 Тип: Векторен (полигони)
 
 Координатна система: EPSG:32635 – WGS 84 / UTM zone 35N

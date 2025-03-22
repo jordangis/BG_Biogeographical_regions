@@ -4,10 +4,14 @@
 Описание на данните.
 
 Файл: BG_unicef_border_BiogeoRegions_2016
+
 Формат: Geopackage
 Тип: Векторен (полигони)
+
 Координатна система: EPSG:32635 – WGS 84 / UTM zone 35N
+
 Източник: European Environmental Agency, UNICEF
+
 Дата: 31.01.2025 г.
 
 Описание на слоевете в базата данни:
